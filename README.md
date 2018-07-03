@@ -12,3 +12,5 @@ c. SV (structural variations)
 
 Whole exome sequencing was done with IDT xGen Exome Research Panel V1.0 with HiSeq2000.
 Whole genome sequencing was done with PCR-free protocol.
+
+#This repository was created for shared bioinformatic protocols in WGS data analysis
