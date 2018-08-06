@@ -10,10 +10,10 @@ a. SNPs + Indel
 b. CNV (copy number variations)
 c. SV (structural variations)
 
-Whole exome sequencing was done with IDT xGen Exome Research Panel V1.0 with NovaSeq.
+Whole exome sequencing was done with IDT xGen Exome Research Panel V1.0 with NovaSeq 6000.
 Whole genome sequencing was done with PCR-free protocol.
 
-#This repository was created for shared bioinformatic protocols in WES & WGS data analysis
+#This repository was created for shared bioinformatic code in WES & WGS data analysis
 #Reference genome
 1. Hg38
 2. B37 + decoy
