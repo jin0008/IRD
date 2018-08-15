@@ -34,4 +34,4 @@ Whole genome sequencing was done with PCR-free protocol.
 1. Whole genome or exome sequencing (both)
  a. Manta (https://github.com/Illumina/manta)
  b. Delly (https://github.com/dellytools/delly)
- c. Pindel
+ c. Pindel (https://github.com/genome/pindel)
